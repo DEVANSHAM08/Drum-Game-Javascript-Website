@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../Dicee Challenge - Starting Files"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Drum Kit Starting Files"
+	}
+}
